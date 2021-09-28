@@ -1,5 +1,5 @@
 app_name: "test02"
-replicaCount: 5
+replicaCount: 2
 image:
   name: "habib02/tsp-projet-app"
   tag: "1"
