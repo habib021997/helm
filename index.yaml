@@ -3,7 +3,17 @@ entries:
   tsp-project:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-28T15:44:33.4106906+02:00"
+    created: "2021-09-28T16:12:01.809394+02:00"
+    description: A Helm chart for tsp-project app
+    digest: 2aad6e88c4c967e8fd837b45a902b559eb86966ebdd687805cbf137d900d4757
+    name: tsp-project
+    type: application
+    urls:
+    - https://habib021997.github.io/helm/tsp-project-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-28T16:12:01.8027009+02:00"
     description: A Helm chart for tsp-project app
     digest: db7b85e03f5b5d57b0c80ea4318ed01ff4d3959b61a807a5c445b2f4a7393cbb
     name: tsp-project
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://habib021997.github.io/helm/tsp-project-0.0.1.tgz
     version: 0.0.1
-generated: "2021-09-28T15:44:33.4000265+02:00"
+generated: "2021-09-28T16:12:01.7973489+02:00"
