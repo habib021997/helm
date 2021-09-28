@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: {{ .Values.app_name }}
-          image: {{ .Values.image.name}}:{{ .Values.image.tag }}
+          image: habib02/tsp-projet-app:1
           ports:
             - containerPort: 80
