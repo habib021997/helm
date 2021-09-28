@@ -1,0 +1,9 @@
+app_name: "test02"
+replicaCount: 1
+image:
+  name: "habib02/tsp-projet-app"
+  tag: "1"
+  pullPolicy: IfNotPresent
+service:
+  type: NodePort
+  port: 80
